@@ -1,4 +1,4 @@
-### Hi, I'm PozitP
+### Hey there, I'm PozitP! 👋🏼👨🏻‍💻
 
 [![twitter badge](https://img.shields.io/badge/-@pozitpp-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pozitpp)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pozitp.code@gmail.com)](mailto:pozitp.code@gmail.com)
