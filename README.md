@@ -1,8 +1,8 @@
 ### Hi, I'm PozitP
 
 [![twitter badge](https://img.shields.io/badge/-@pozitpp-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pozitpp)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pozitplay@gmail.com)](mailto:pozitplay@gmail.com)
-![githubbadge](https://img.shields.io/github/followers/Pozitp?style=social)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pozitp.code@gmail.com)](mailto:pozitp.code@gmail.com)
+![githubbadge](https://img.shields.io/github/followers/PozitP?style=social)
 ![](https://komarev.com/ghpvc/?username=PozitP&color=brightgreen&style=flat)
 
 #### Languages
