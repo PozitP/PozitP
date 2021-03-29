@@ -21,5 +21,5 @@
 hey there. i writing code in visual studio code and webstorm)
 using arch linux <3
 
-╭─ ~ at 14:09:50
+╭─ ~ at 14:09:50 \n
 ╰─❯ code/webstorm 
