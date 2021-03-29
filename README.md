@@ -15,11 +15,11 @@
 <a href="https://github.com/PozitP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PozitP&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PozitP&theme=buefy&layout=compact" />
-</a>
-
-
+</a>      
+   
+   
 hey there. i writing code in visual studio code and webstorm)
 using arch linux <3
 
-╭─ ~ at 14:09:50 \n
+╭─ ~ at 14:09:50   
 ╰─❯ code/webstorm 
