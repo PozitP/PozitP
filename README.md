@@ -19,7 +19,7 @@
    
    
 hey there. i writing code in visual studio code and webstorm)
-using arch linux <3
+using arch linux/windows 10 <3
 
 ╭─ ~ at 14:09:50   
-╰─❯ code/webstorm 
+╰─❯ code/vs   
