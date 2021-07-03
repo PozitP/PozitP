@@ -1,5 +1,6 @@
 ### Hey there, I'm PozitP! 👋🏼👨🏻‍💻
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Envoy-VC&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pozitp.code@gmail.com)](mailto:pozitp.code@gmail.com)
 <br>
 
 #### Languages and tools
