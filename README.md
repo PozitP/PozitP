@@ -1,3 +1,4 @@
-<h2>Statistics</h2>
+## My GitHub Stats
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=pozitp&theme=chartreuse&show_icons=true&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=pozitp&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pozitp&theme=github_dark&layout=compact)
