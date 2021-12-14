@@ -5,4 +5,4 @@
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=4eacdcace13d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-[Recieve 100$ in DigitalOcean for free](https://m.do.co/c/4eacdcace13d)
+[Receive $100 in DigitalOcean for free](https://m.do.co/c/4eacdcace13d)
