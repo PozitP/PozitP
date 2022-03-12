@@ -7,5 +7,5 @@
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=4eacdcace13d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-[Receive $100 in DigitalOcean for free](https://m.do.co/c/4eacdcace13d)
-
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xf9e4854b0d94138ae3d1A88Dbdf3AfA7cd726713)](https://en.cryptobadges.io/donate/0xf9e4854b0d94138ae3d1A88Dbdf3AfA7cd726713)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/bc1qmz2jrqfwj0nyv2nrgp0fg6srapp96fn0fh7x3z)](https://en.cryptobadges.io/donate/bc1qmz2jrqfwj0nyv2nrgp0fg6srapp96fn0fh7x3z)
